@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cargador de Datos</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="setdate">Set Date</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ok">Ok</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">E-mail</string>
+    <string name="descripcion">Descripcion Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmarDatos">Confirmar Datos</string>
+    <string name="fechaNacimiento">Fecha Nacimiento: </string>
+    <string name="tel">Tel. </string>
+    <string name="descr">Descripcion: </string>
+    <string name="editarDatos">Editar Datos</string>
+    <string name="pNombre">nombre</string>
+    <string name="pFecha">fecha</string>
+    <string name="pTelefono">telefono</string>
+    <string name="pEmail">email</string>
+    <string name="pDescripcion">descripcion</string>
+
+</resources>

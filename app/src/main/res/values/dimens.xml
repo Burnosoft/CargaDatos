@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="right">20dp</dimen>
+    <dimen name="left">20dp</dimen>
+    <dimen name="top">10dp</dimen>
+    <dimen name="titleTop">25dp</dimen>
+    <dimen name="titleText">40dp</dimen>
+    <dimen name="lastItem">30dp</dimen>
+    <dimen name="button">50dp</dimen>
+    <dimen name="titleSize">25dp</dimen>
+    <dimen name="textSize">15dp</dimen>
+    <dimen name="paddingText">20dp</dimen>
+</resources>
